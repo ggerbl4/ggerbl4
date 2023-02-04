@@ -1,0 +1,46 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    
+    width: 541px;
+}
+.login {
+    display: flex;
+    justify-content: space-between;
+    width: 232px;
+    height: 54px;
+}
+.btn {
+    background-color:#939DFF ;
+    padding: 16px 32px;
+    border-radius: 16px;
+    text-align: center;
+}
+.log-in {
+    margin-top: 16px;
+}
+.main-text {
+    display: flex;
+    justify-content: flex-start;
+    margin: 0px ;
+    width: 555px;
+    margin-top: 48px;
+}
+.lorem-ipsum {
+    width: 440px;
+}
+.searc-place {
+    background-color: wheat;
+    border-radius: 20px
+    box-shadow 10px; 
+    width: 444px; 
+    margin-top: 20px;
+}
+.logo {
+    margin-top: 12px;
+}
